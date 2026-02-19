@@ -37,14 +37,11 @@ public class BaseClass {
 		p.load(file);
 
 		switch (br.toLowerCase()) {
-		case "chrome":
-			driver = new ChromeDriver();
+		case "chrome": driver = new ChromeDriver();
 			break;
-		case "edge":
-			driver = new EdgeDriver();
+		case "edge": driver = new EdgeDriver();
 			break;
-		case "firefox":
-			driver = new FirefoxDriver();
+		case "firefox": driver = new FirefoxDriver();
 			break;
 		default:
 			System.out.println("Invalid browser name");

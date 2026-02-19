@@ -33,7 +33,7 @@ public class TC002_LoginTest extends BaseClass {
 			MyAccountPage page = new MyAccountPage(driver);
 			boolean targetpage = page.isMyaccountpageExists();
 		
-			Assert.assertEquals(targetpage, false,"Login failed");
+			Assert.assertEquals(targetpage, true,"Login failed");
 			
 		
 			logger.info("********* Login completed  **********");
