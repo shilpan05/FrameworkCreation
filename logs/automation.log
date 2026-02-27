@@ -1,22 +1,9 @@
-2026-02-20 00:08:02 INFO  TC002_LoginTest:16 - ********* Starting TC002_LoginTest **********
-2026-02-20 00:08:02 DEBUG TC002_LoginTest:18 - **** Homepage started *****
-2026-02-20 00:08:03 DEBUG TC002_LoginTest:24 - **** Login started *****
-2026-02-20 00:08:05 DEBUG TC002_LoginTest:31 - **** Myaccountpage started *****
-2026-02-20 00:09:58 INFO  TC002_LoginTest:16 - ********* Starting TC002_LoginTest **********
-2026-02-20 00:09:58 DEBUG TC002_LoginTest:18 - **** Homepage started *****
-2026-02-20 00:09:59 DEBUG TC002_LoginTest:24 - **** Login started *****
-2026-02-20 00:10:07 DEBUG TC002_LoginTest:31 - **** Myaccountpage started *****
-2026-02-20 00:10:08 INFO  TC002_LoginTest:39 - ********* Login completed  **********
-2026-02-20 00:11:52 INFO  TC001AccountRegistrationTest:16 - ********* Starting TC001AccountRegistrationTest **********
-2026-02-20 00:11:53 INFO  TC001AccountRegistrationTest:22 - ********* Starting RegistrationPage **********
-2026-02-20 00:11:57 INFO  TC001AccountRegistrationTest:36 - ********* completed with entering the details  **********
-2026-02-20 00:11:57 INFO  TC001AccountRegistrationTest:47 - ********* Successfully completed Registration  **********
-2026-02-20 00:13:29 INFO  TC001AccountRegistrationTest:16 - ********* Starting TC001AccountRegistrationTest **********
-2026-02-20 00:13:30 INFO  TC001AccountRegistrationTest:22 - ********* Starting RegistrationPage **********
-2026-02-20 00:13:35 INFO  TC001AccountRegistrationTest:36 - ********* completed with entering the details  **********
-2026-02-20 00:13:35 INFO  TC001AccountRegistrationTest:47 - ********* Successfully completed Registration  **********
-2026-02-20 00:13:48 INFO  TC002_LoginTest:16 - ********* Starting TC002_LoginTest **********
-2026-02-20 00:13:48 DEBUG TC002_LoginTest:18 - **** Homepage started *****
-2026-02-20 00:13:51 DEBUG TC002_LoginTest:24 - **** Login started *****
-2026-02-20 00:13:53 DEBUG TC002_LoginTest:31 - **** Myaccountpage started *****
-2026-02-20 00:13:53 INFO  TC002_LoginTest:39 - ********* Login completed  **********
+2026-02-27 20:16:29 INFO  TC001AccountRegistrationTest:16 - ********* Starting TC001AccountRegistrationTest **********
+2026-02-27 20:16:30 INFO  TC001AccountRegistrationTest:22 - ********* Starting RegistrationPage **********
+2026-02-27 20:16:36 INFO  TC001AccountRegistrationTest:36 - ********* completed with entering the details  **********
+2026-02-27 20:16:36 INFO  TC001AccountRegistrationTest:47 - ********* Successfully completed Registration  **********
+2026-02-27 20:16:46 INFO  TC002_LoginTest:16 - ********* Starting TC002_LoginTest **********
+2026-02-27 20:16:46 DEBUG TC002_LoginTest:18 - **** Homepage started *****
+2026-02-27 20:16:48 DEBUG TC002_LoginTest:24 - **** Login started *****
+2026-02-27 20:16:51 DEBUG TC002_LoginTest:31 - **** Myaccountpage started *****
+2026-02-27 20:16:51 INFO  TC002_LoginTest:39 - ********* Login completed  **********

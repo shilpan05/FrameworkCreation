@@ -24,7 +24,7 @@ public class TC001AccountRegistrationTest extends BaseClass {
 
 			reg.setFirstName("Mourvi");
 			reg.setlastName("darshan");
-			reg.setEmail("xasada@gmail.com");
+			reg.setEmail("xasadaftft@gmail.com");
 			reg.setnumber("9874545674");
 			reg.setPassword("Mourvi2023");
 			reg.setcnfPassword("Mourvi2023");
